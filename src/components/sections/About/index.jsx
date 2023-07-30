@@ -18,7 +18,7 @@ function Component() {
             <GridContainer>
                 <DecoTitleBlack>Sobre Mim</DecoTitleBlack>
                 <section>
-                    <p>Estudante de Engenharia de Computação, atualmente atuando como Estagiário Desenvolvedor Full Stack, viso progredir meu conhecimento pois almejo para minha carreira o título de Backend Engineer Senior. Sou apaixonado pela área de tecnologia e uma pessoa de fácil comunicação, desejo conquistar o máximo de experiência dentro do mercado de trabalho para que ao término da minha faculdade eu esteja preparado para cargos maiores.</p>
+                    <p>Estudante de Engenharia de Computação, atualmente atuando como Estagiário Desenvolvedor Full Stack, viso progredir meu conhecimento acadêmico pois almejo para minha carreira o título de Backend Engineer Senior. Sou apaixonado pela área de tecnologia e uma pessoa de fácil comunicação, desejo conquistar o máximo de experiência dentro do mercado de trabalho para que ao término da minha faculdade eu esteja preparado para cargos maiores.</p>
                 </section>
                 <span className='dec'></span>
             </GridContainer>
