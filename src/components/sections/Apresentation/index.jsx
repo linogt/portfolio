@@ -12,7 +12,7 @@ function Component() {
                 </figure>
                 <article>
                     <h1>Olá, eu sou<br></br>Gabriel Garcia</h1>
-                    <p>Desenvolvedor Full Stack </p>
+                    <p>Desenvolvedor Full Stack 🤖</p>
                 </article>
                 <span className='dec'></span>
             </GridContainer>

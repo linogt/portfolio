@@ -9,7 +9,7 @@ function Component() {
             <span id="top"></span>
             <HeaderContainer>
                 <GridContainer>
-                    <h2><a href="#top">🤖</a></h2>
+                    <h2><a href="#top"></a></h2>
                     <ul>
                         <li><a href="#about">Sobre</a></li>
                         <li><a href="#experience">Experiência</a></li>
