@@ -21,6 +21,16 @@ export const CardContainer = styled.div`
         }
     }
 
+    & img {
+        width: 250px;
+        @media screen and (max-width: ${breakpoints.w1280}) {
+            width: 400px;
+        }
+    }
+
+
+    
+
     & h3, h4 {
         margin-bottom: 1rem;
     }

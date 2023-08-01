@@ -16,6 +16,7 @@ function Component() {
                 description={exp.description}
                 tagTitle={exp.tagTitle}
                 tags={exp.tags}
+                imagem={exp.imagem}
                 year={exp.year}
             />
         );

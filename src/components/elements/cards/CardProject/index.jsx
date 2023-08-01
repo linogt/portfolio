@@ -2,7 +2,7 @@ import React from 'react';
 import { CardContainer } from './style';
 import { GridContainer } from '../../../styles/GridContainer.style';
 
-function Component({title, description, tagTitle, tags = [], year}) {
+function Component({title, imagem, description, tagTitle, tags = [], year}) {
 
     const elementTags = [];
     for (let tag of tags) {
@@ -18,8 +18,12 @@ function Component({title, description, tagTitle, tags = [], year}) {
                     <div>
                         <h3>{title}</h3>
                     </div>
+                    <figure >
+                        <img src={imagem} />
+                    </figure>
                     <p>{description}</p>
                     <a href={year} target="_blank"><b>Ver mais</b></a>
+                    
                 </div>
                 <div className="cardExp_tags_wrapper">
                     <h4>{tagTitle}</h4>
@@ -27,6 +31,7 @@ function Component({title, description, tagTitle, tags = [], year}) {
                         { elementTags }
                     </div>
                 </div>
+                
             </GridContainer>
         </CardContainer>
     );
