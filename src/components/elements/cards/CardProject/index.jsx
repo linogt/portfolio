@@ -2,6 +2,7 @@ import React from 'react';
 import { CardContainer } from './style';
 import { GridContainer } from '../../../styles/GridContainer.style';
 
+
 function Component({title, imagem, description, tagTitle, tags = [], year}) {
 
     const elementTags = [];
@@ -19,7 +20,7 @@ function Component({title, imagem, description, tagTitle, tags = [], year}) {
                         <h3>{title}</h3>
                     </div>
                     <figure >
-                        <img src={imagem} />
+                            <img src={imagem} />
                     </figure>
                     <p>{description}</p>
                     <a href={year} target="_blank"><b>Ver mais</b></a>
