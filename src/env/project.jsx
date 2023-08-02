@@ -34,7 +34,7 @@ export const project = [
     },
     {
         title: "Shopping Site",
-        description: "Site para adicionar items em um catálogo.",
+        description: "Site para adicionar itens em um catálogo.",
         tagTitle: tagTitleTech,
         imagem: shopping,
         tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "SQLite", "Node.js", "Express", "Express-Handlebars","Sequelize"],
