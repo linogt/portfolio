@@ -1,5 +1,17 @@
 const tagTitleTech = "tecnologias";
-const descriptionPagmob = "Acompanhar a implementação de novas features em projetos já existentes, apoiar a manutenção de sistemas já estabelecidos (correção de problema e otimização), auxiliar com documentos dos sistemas, realizar testes, acompanhar a criação de novas ferramentas de serviços."
+const descriptionPagmob = "• Desenvolvimento de sistema web utilizando
+Java Spring-Boot e Angular
+• Desenvolvimento das camadas de back end
+utilizando Java Spring-Boot
+• Desenvolvimento do Front end utilizando
+padrão rest para conexão do back end
+• Desenvolvimento de APIs Rest no back end
+Java Spring-Boot
+• Uso do Postman para testar as APls Rest
+• Ferramenta de versionamento: Bitbucket
+e Git
+• Desenvolvimento utilizando a metodologia
+Ágil Scrum";
 
 export const experiences = [
     {
